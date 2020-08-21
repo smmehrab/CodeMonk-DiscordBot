@@ -21,7 +21,7 @@ Not quite there yet.
 
 # Commands
 
-To run a command in any server, use @CodeMonk#3112 command. For example, @CodeMonk#3112 prefix.
+To run a command in any server, use ```@CodeMonk#3112``` ```command```. For example, ```@CodeMonk#3112``` ```!cf_user```.
 To run a command in this DM, simply use command with no prefix.
 
 <br>
@@ -29,14 +29,14 @@ To run a command in this DM, simply use command with no prefix.
 ## Codeforces API
 
 
-```register_cf``` 
+**!register_cf** 
 
 To register user's codeforces handle to his/her discord username.
 ```
 !register_cf codeforces_handle
 ```
 
-```!cf_contests``` 
+**!cf_contests**  
 
 Shows the upcoming/finished contests of codeforces.
 
@@ -46,7 +46,7 @@ Shows the upcoming/finished contests of codeforces.
 !cf_contests "upcoming"/"finished" "gym"
 ```
 
-```!cf_ratings``` 
+**!cf_ratings** 
 Shows the rating changes of the specific user/contest.
 ```
 !cf_rating
@@ -54,7 +54,7 @@ Shows the rating changes of the specific user/contest.
 !cf_rating contestId
 ```
 
-```cf_standings```
+**!cf_standings**
 
 Shows the standings of the registered users of the server on a specific contest.
 
@@ -62,7 +62,7 @@ Shows the standings of the registered users of the server on a specific contest.
 !cf_standings contestId
 ```
 
-```cf_submissions```
+**!cf_submissions**
 
 Shows the submission history of the specific user/contest (Or both).
 
@@ -72,7 +72,7 @@ Shows the submission history of the specific user/contest (Or both).
 !cf_submissions handle contestId
 ```
 
-```cf_user``` 
+**!cf_user** 
 
 Shows the profile of a specific user.
 ```
@@ -100,18 +100,18 @@ Working on...
 
 ## Utility
 
-```help``` 
+**!help** 
 
 Displays a list of available commands, or detailed information for a specified command.
 
-```prefix``` 
+**!prefix** 
 
 Shows or sets the command prefix.
 
-```ping``` 
+**!ping** 
 
 Checks the bot's ping to the Discord server.
 
-```eval``` 
+**!eval** 
 
 Executes JavaScript code.

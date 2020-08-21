@@ -4,7 +4,7 @@ const config = require('./config.json');
 const fs = require('fs');
 
 const client = new Commando.Client({
-    owner: config.CLIENT_ID
+    owner: process.env.clientId
 });
 
 client.registry
@@ -17,4 +17,4 @@ client.registry
     .registerDefaults()
     .registerCommandsIn(path.join(__dirname, 'commands'));
 
-client.login(config.TOKEN);
+client.login(process.env.token);

@@ -5,6 +5,7 @@ const fs = require('fs');
 
 const client = new Commando.Client({
     owner: config.CLIENT_ID
+    // owner: process.env.clientId
 });
 
 client.registry
@@ -17,4 +18,5 @@ client.registry
     .registerDefaults()
     .registerCommandsIn(path.join(__dirname, 'commands'));
 
+// client.login(process.env.token);
 client.login(config.TOKEN);

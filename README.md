@@ -9,4 +9,4 @@
 
 It's inspired from another discord bot named [TLE](https://github.com/cheran-senthil/TLE), which I was originally trying to install on our server of a small group of improving problem solvers. Somehow, silly me, found it hard to install that bot, as my app was showing some error. But I loved their work and thought I can make one of my own too, based on my own needs.
 
-Hope, I will keep improving this bot as I climb up the ladders of learning problem solving skills in the coming future. 
+Hope, I will keep improving this bot as I climb up the ladders of learning problem solving skills in the near future. Any kind of help in both the scenario will be highly appreciated and something, I will forever be grateful to. Up for a long journey. Cheers!

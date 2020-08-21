@@ -47,6 +47,7 @@ Shows the upcoming/finished contests of codeforces.
 ```
 
 **!cf_ratings** 
+
 Shows the rating changes of the specific user/contest.
 ```
 !cf_rating

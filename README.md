@@ -95,7 +95,7 @@ Working on...
 Working on...
 
 - Proposing a problem to the community
-- Adding interesting problem to the queue based on community respons
+- Adding interesting problem to the queue based on community response
 
 <br>
 

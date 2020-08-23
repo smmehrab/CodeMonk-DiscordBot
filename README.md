@@ -50,9 +50,9 @@ Shows the upcoming/finished contests of codeforces.
 
 Shows the rating changes of the specific user/contest.
 ```
-!cf_rating
-!cf_rating handle
-!cf_rating contestId
+!cf_ratings
+!cf_ratings handle
+!cf_ratings contestId
 ```
 
 **!cf_standings**
